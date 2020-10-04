@@ -1,0 +1,112 @@
+h1,h2,h4,h5,p{
+	text-transform: uppercase;
+font-family: letra;
+	color:black;
+	letter-spacing: 1px;
+}
+h1{
+	font-size: 30px;
+	font-family: letra;
+	
+}
+h2{
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 10px;
+	font-weight: normal;
+
+
+}
+h4{
+	margin-top: 10px;
+	font-size: 16px;
+}
+h5{
+	font-family: letra;
+	line-height: 1.5;
+	font-weight: normal;
+	padding: 10px 0;
+	font-size: 12px;
+}
+p{
+	color:#888;
+	font-family: letra;
+	font-size: 15px;
+}
+.wap{
+	
+	margin:auto;
+	width: 90%;
+
+}
+.bienvenidos{
+	margin-top: 50px;
+	text-align: center;
+
+
+
+}
+
+.contenedor-columnas{
+	margin: center;
+	margin:auto;
+	margin-bottom: 300px;
+	
+
+}
+.columnasx3{
+	width: 33.333%;
+	float: left;
+	padding: 20px 30px;
+	box-sizing: border-box;
+	margin: auto;
+	
+}
+
+.columnasx3 img{
+	width: 100%;
+	
+
+}
+.banner {
+width: 80%;
+clear: both;
+background: black;
+padding-top: 30px;
+padding-bottom: 50px;
+margin: auto;
+text-align: center;
+height: 30px;
+transition: 0.4s; 
+}
+.banner h3{
+	padding-top: 15px;
+color:white;
+font-family: letra;
+font-size: 32px;
+font-weight:normal; 
+}
+.banner a{
+	text-decoration: none;
+	margin-left: 20px;
+	font-weight: bold;
+	color:#fff;
+	border-bottom: 2px solid #fff;
+	font-size: 32px;
+	font-family: letra;
+	padding-top: 15px;
+}
+.banner:hover{
+	background: #444;
+	transition: 0.4s;
+}
+i{
+	color:#444;
+}
+.columnasx3 i {
+	float:left; 
+	padding-right:20px; 
+}
+.columnasx3 h4{
+	padding-bottom: 20px;
+}

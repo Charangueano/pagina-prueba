@@ -1,0 +1,31 @@
+#particles-js{
+
+	background: url(imagenes/1.jpg);
+
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	width: 100%;
+}
+.ancho-letras{
+	top:300px;
+	position: absolute;
+	width: 100%;
+
+	text-align: center;
+	z-index:1;
+}
+.letras-pequeñas h1{
+color:#fff;
+font-family: letra;
+font-size: 70px;
+background: rgba(0,0,0,.4);
+
+}
+.letras-pequeñas  p{
+color:#fff;
+font-family: letra;
+padding-top: 30px;
+
+
+}
